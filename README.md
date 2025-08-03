@@ -6,7 +6,7 @@ Solution to the <a href="https://devchallenges.io/challenge/simple-business-card
 
 <div align="center">
 <h3>
-<a href="#">
+<a href="https://gvillarroel-dev.github.io/simple-business-card/">
 Demo
 </a>
 <span> | </span>
@@ -76,5 +76,5 @@ Another [DevChallenges](https://devchallenges.io/challenges-dashboard) project t
 
 ## Author
 
-- Website [simple-business-card](#)
+- Website [simple-business-card](https://gvillarroel-dev.github.io/simple-business-card/)
 - GitHub [@gvillarroel-dev](https://github.com/gvillarroel-dev)
